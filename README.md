@@ -22,7 +22,6 @@
 - Verify that tab functionality is working properly or not.
 - Verify that Enter/Tab key works as a substitute for the Submit button.
 - Verify that all the fields such as Username, First Name, Last Name, Password and other fields have a valid placeholder.
-- Verify that the labels float upward when the text field is in focus or filled `(In case of floating label)`.
 - Verify that all the `required/mandatory` fields are marked with `*` against the field.
 - Verify that clicking on submit button after entering all the mandatory fields, submits the data to the server.
 - Verify that system generates a validation message when clicking on submit button without filling all the mandatory fields.
