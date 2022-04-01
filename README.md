@@ -79,11 +79,11 @@
 Usability Testing has now become a vital part of any web based project. It can be **carried out by testers** like you or a **small focus** group similar to the target audience of the web application.
 
 - **Test the site Navigation:**
- - Menus, buttons or Links to different pages on your site should be easily visible and consistent on all webpages
+    - Menus, buttons or Links to different pages on your site should be easily visible and consistent on all webpages
 
 - **Test the Content:**
- - Content should be legible with no spelling or grammatical errors.
- - Images if present should contain an **alt** text.
+    - Content should be legible with no spelling or grammatical errors.
+    - Images if present should contain an **alt** text.
 
 
 ## 3.Interface Testing:
