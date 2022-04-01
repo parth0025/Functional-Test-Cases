@@ -75,7 +75,7 @@
   - Test negative scenarios as well, such that when a user executes an unexpected step, appropriate error message or help is shown in your web application.
 
 
-## 2. Usability testing:
+## 2. Usability testing
 Usability Testing has now become a vital part of any web based project. It can be **carried out by testers** like you or a **small focus** group similar to the target audience of the web application.
 
 - **Test the site Navigation:**
@@ -86,7 +86,7 @@ Usability Testing has now become a vital part of any web based project. It can b
     - Images if present should contain an **alt** text.
 
 
-## 3.Interface Testing:
+## 3.Interface Testing
 Three areas to be tested here are – Application, Web and Database Server.
 
 - **Application:** Test requests are sent correctly to the Database and output at the client side is displayed correctly. Errors if any must be caught by the application and must be only shown to the administrator and not the end user.
@@ -94,7 +94,7 @@ Three areas to be tested here are – Application, Web and Database Server.
 - **Database Server:** Make sure queries sent to the database give expected results.
 
 
-## 4. Database Testing:
+## 4. Database Testing
 Database is one critical component of your web application and stress must be laid to test it thoroughly. Testing activities will include:
 
 - Test if any errors are shown while executing queries
@@ -103,14 +103,14 @@ Database is one critical component of your web application and stress must be la
 - Test data retrieved from your database is shown accurately in your web application.
 
 
-## 5. Compatibility testing:
+## 5. Compatibility testing
 Compatibility tests ensures that your web application displays correctly across different devices. This would include:
 
 - **Browser Compatibility Test:** Same website in different browsers will display differently. You need to test if your web application is being displayed correctly across browsers, JavaScript, AJAX and authentication is working fine. You may also check for **Mobile Browser** Compatibility.
 - The rendering of web elements like buttons, text fields etc. changes with change in **Operating System**. Make sure your website works fine for various combination of Operating systems such as Windows, Linux, Mac and Browsers such as Firefox, Internet Explorer, Safari etc.
 
 
-## 6. Performance Testing:
+## 6. Performance Testing
 This will ensure your site works under all loads. Software Testing activities will include but not limited to:
 
 - Website application response times at different connection speeds.
@@ -120,7 +120,7 @@ This will ensure your site works under all loads. Software Testing activities wi
 - Make sure optimization techniques like gzip compression, browser and server side cache enabled to reduce load times.
 
 
-## 7. Security testing:
+## 7. Security testing
 **Security Testing** is vital for e-commerce website that store sensitive customer information like credit cards. Testing Activities will include:
 
 - Test unauthorized access to secure pages should not be permitted.
@@ -129,5 +129,5 @@ This will ensure your site works under all loads. Software Testing activities wi
 - On use of SSL certificates, website should re-direct to encrypted SSL pages.
 
 
-## 8. Crowd Testing:
+## 8. Crowd Testing
 You will select a large number of people **(crowd)** to execute tests which otherwise would have been executed a select group of people in the company. Crowdsourced testing is an interesting and upcoming concept and helps unravel many a unnoticed defects.
