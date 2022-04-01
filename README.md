@@ -44,7 +44,7 @@
 
 # How to test Application
 
-## 1. Functionality Testing
+### 1. Functionality Testing
 **Functionality Testing of a Website** is a process that includes several testing parameters like user interface, APIs, database testing, security testing, client and server testing and basic website functionalities. Functional testing is very convenient and it allows users to perform both manual and automated testing. It is performed to test the functionalities of each feature on the website.
     
 ### Web based Testing Activities includes:
