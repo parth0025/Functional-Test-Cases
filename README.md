@@ -42,13 +42,13 @@
 - Verify whether the password and confirm password are same or not.
 
 
-# How to test Application
+# How to test application
 
 
 ## 1. Functionality Testing
 **Functionality Testing of a Website** is a process that includes several testing parameters like user interface, APIs, database testing, security testing, client and server testing and basic website functionalities. Functional testing is very convenient and it allows users to perform both manual and automated testing. It is performed to test the functionalities of each feature on the website.
     
-### Web based Testing Activities includes:
+### Web based testing activities includes:
 - **Test all links** in your webpages are working correctly and make sure there are no broken links. Links to be checked will include:
   - Outgoing links
   - Internal links
@@ -75,7 +75,7 @@
   - Test negative scenarios as well, such that when a user executes an unexpected step, appropriate error message or help is shown in your web application.
 
 
-## 2. Usability testing
+## 2. Usability Testing
 Usability Testing has now become a vital part of any web based project. It can be **carried out by testers** like you or a **small focus** group similar to the target audience of the web application.
 
 - **Test the site Navigation:**
@@ -103,7 +103,7 @@ Database is one critical component of your web application and stress must be la
 - Test data retrieved from your database is shown accurately in your web application.
 
 
-## 5. Compatibility testing
+## 5. Compatibility Testing
 Compatibility tests ensures that your web application displays correctly across different devices. This would include:
 
 - **Browser Compatibility Test:** Same website in different browsers will display differently. You need to test if your web application is being displayed correctly across browsers, JavaScript, AJAX and authentication is working fine. You may also check for **Mobile Browser** Compatibility.
@@ -120,7 +120,7 @@ This will ensure your site works under all loads. Software Testing activities wi
 - Make sure optimization techniques like gzip compression, browser and server side cache enabled to reduce load times.
 
 
-## 7. Security testing
+## 7. Security Testing
 **Security Testing** is vital for e-commerce website that store sensitive customer information like credit cards. Testing Activities will include:
 
 - Test unauthorized access to secure pages should not be permitted.
