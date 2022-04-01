@@ -40,3 +40,15 @@
 - Verify that the validation message is displayed when clicking on submit button without selecting `terms and conditions` checkbox.
 - Verify that the password is in encrypted form when entered.
 - Verify whether the password and confirm password are same or not.
+
+# When you’re testing a web application, there are a lot of things you have to check for. This checklist can be divided into six major steps as follows:
+
+  1. Functionality testing
+  2. Usability testing
+  3. Interface testing
+  4. Compatibility testing
+      - Browser compatibility
+      - Operating system compatibility
+      - Device compatibility
+  6. Performance testing
+  7. Security testing
