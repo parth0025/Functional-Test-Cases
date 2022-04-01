@@ -45,30 +45,30 @@
 # How to test Web Application
 
   ## 1. Functionality Testing of a Website
-    - `Functionality Testing of a Website` is a process that includes several testing parameters like user interface, APIs, database testing, security testing, client and server testing and basic website functionalities. Functional testing is very convenient and it allows users to perform both manual and automated testing. It is performed to test the functionalities of each feature on the website.
+  `Functionality Testing of a Website` is a process that includes several testing parameters like user interface, APIs, database testing, security testing, client and server testing and basic website functionalities. Functional testing is very convenient and it allows users to perform both manual and automated testing. It is performed to test the functionalities of each feature on the website.
     
-   ### Web based Testing Activities includes:
-      - `Tes`t all `links` in your webpages are working correctly and make sure there are no broken links. Links to be checked will include:
-        - Outgoing links
-        - Internal links
-        - Anchor Links
-        - MailTo Links
+  ### Web based Testing Activities includes:
+    - `Tes`t all `links` in your webpages are working correctly and make sure there are no broken links. Links to be checked will include:
+      - Outgoing links
+      - Internal links
+      - Anchor Links
+      - MailTo Links
       
-      - `Test Forms` are working as expected. This will include:
-        - Scripting checks on the form are working as expected. For example- if a user does not fill a mandatory field in a form an error message is shown.
-        - Check default values are being populated
-        - Once submitted, the data in the forms is submitted to a live database or is linked to a working email address
-        - Forms are optimally formatted for better readability
-      
-      - `Test Cookies` are working as expected. Cookies are small files used by websites to primarily remember active user sessions so you do not need to log in every time you visit a website. Cookie Testing will include:
-        - Testing cookies (sessions) are deleted either when cache is cleared or when they reach their expiry.
-        - Delete cookies (sessions) and test that login credentials are asked for when you next visit the site.
+    - `Test Forms` are working as expected. This will include:
+      - Scripting checks on the form are working as expected. For example- if a user does not fill a mandatory field in a form an error message is shown.
+      - Check default values are being populated
+      - Once submitted, the data in the forms is submitted to a live database or is linked to a working email address
+      - Forms are optimally formatted for better readability
+
+    - `Test Cookies` are working as expected. Cookies are small files used by websites to primarily remember active user sessions so you do not need to log in every time you visit a website. Cookie Testing will include:
+      - Testing cookies (sessions) are deleted either when cache is cleared or when they reach their expiry.
+      - Delete cookies (sessions) and test that login credentials are asked for when you next visit the site.
         
-      - `Test HTML and CSS` to ensure that search engines can crawl your site easily. This will include:
-        - Checking for Syntax Errors
-        - Readable Color Schemas
-        - Standard Compliance. Ensure standards such W3C, OASIS, IETF, ISO, ECMA, or WS-I are followed.
+    - `Test HTML and CSS` to ensure that search engines can crawl your site easily. This will include:
+      - Checking for Syntax Errors
+      - Readable Color Schemas
+      - Standard Compliance. Ensure standards such W3C, OASIS, IETF, ISO, ECMA, or WS-I are followed.
         
-      - `Test business workflow` – This will include:
-        - Testing your end – to – end workflow/ business scenarios which takes the user through a series of webpages to complete.
-        - Test negative scenarios as well, such that when a user executes an unexpected step, appropriate error message or help is shown in your web application.
+    - `Test business workflow` – This will include:
+      - Testing your end – to – end workflow/ business scenarios which takes the user through a series of webpages to complete.
+      - Test negative scenarios as well, such that when a user executes an unexpected step, appropriate error message or help is shown in your web application.
