@@ -42,7 +42,7 @@
 - Verify whether the password and confirm password are same or not.
 
 
-# How to test application
+# Application Test Cases Scenarios
 
 
 ## 1. Functionality Testing
